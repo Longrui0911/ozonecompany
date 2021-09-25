@@ -1,0 +1,14 @@
+{
+    "name": "ozonecompany-1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sasstocss": "node-sass Sass/main.scss Css/style.css"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-sass": "^6.0.1"
+    }
+}
